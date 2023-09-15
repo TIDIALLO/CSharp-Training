@@ -1,0 +1,15 @@
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.csproj.AssemblyReference.cache
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.AssemblyInfoInputs.cache
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.AssemblyInfo.cs
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\training\test-delegate\bin\Debug\net6.0\test-delegate.exe
+D:\dev\dotnet\training\test-delegate\bin\Debug\net6.0\test-delegate.deps.json
+D:\dev\dotnet\training\test-delegate\bin\Debug\net6.0\test-delegate.runtimeconfig.json
+D:\dev\dotnet\training\test-delegate\bin\Debug\net6.0\test-delegate.dll
+D:\dev\dotnet\training\test-delegate\bin\Debug\net6.0\test-delegate.pdb
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.dll
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\refint\test-delegate.dll
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.pdb
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\test-delegate.genruntimeconfig.cache
+D:\dev\dotnet\training\test-delegate\obj\Debug\net6.0\ref\test-delegate.dll

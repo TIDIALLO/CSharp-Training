@@ -1,0 +1,15 @@
+D:\dev\dotnet\training\workingWithCollections\bin\Debug\net6.0\workingWithCollections.exe
+D:\dev\dotnet\training\workingWithCollections\bin\Debug\net6.0\workingWithCollections.deps.json
+D:\dev\dotnet\training\workingWithCollections\bin\Debug\net6.0\workingWithCollections.runtimeconfig.json
+D:\dev\dotnet\training\workingWithCollections\bin\Debug\net6.0\workingWithCollections.dll
+D:\dev\dotnet\training\workingWithCollections\bin\Debug\net6.0\workingWithCollections.pdb
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.csproj.AssemblyReference.cache
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.AssemblyInfoInputs.cache
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.AssemblyInfo.cs
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.dll
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\refint\workingWithCollections.dll
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.pdb
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\workingWithCollections.genruntimeconfig.cache
+D:\dev\dotnet\training\workingWithCollections\obj\Debug\net6.0\ref\workingWithCollections.dll
