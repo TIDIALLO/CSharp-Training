@@ -1,0 +1,15 @@
+D:\dev\dotnet\training\pattern-matching\bin\Debug\net6.0\pattern-matching.exe
+D:\dev\dotnet\training\pattern-matching\bin\Debug\net6.0\pattern-matching.deps.json
+D:\dev\dotnet\training\pattern-matching\bin\Debug\net6.0\pattern-matching.runtimeconfig.json
+D:\dev\dotnet\training\pattern-matching\bin\Debug\net6.0\pattern-matching.dll
+D:\dev\dotnet\training\pattern-matching\bin\Debug\net6.0\pattern-matching.pdb
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.csproj.AssemblyReference.cache
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.AssemblyInfoInputs.cache
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.AssemblyInfo.cs
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.dll
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\refint\pattern-matching.dll
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.pdb
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\pattern-matching.genruntimeconfig.cache
+D:\dev\dotnet\training\pattern-matching\obj\Debug\net6.0\ref\pattern-matching.dll
